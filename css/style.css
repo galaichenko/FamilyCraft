@@ -310,8 +310,8 @@ body {
 .container {
   width: 1290px;
   margin: 0 auto;
-  padding-top: 50px;
-  padding-bottom: 35px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 .who-we-are {
   background: #ede2e2;
@@ -401,7 +401,6 @@ body {
 /* ****Section2 (We work for you)**** */
 .work-for-you {
   background: rgb(237, 226, 226, 0.5);
-  padding-bottom: 50px;
 }
 .section2-description {
   font-size: 25px;
@@ -417,7 +416,6 @@ body {
 
 /* ******Section3 (What do we produce?)***** */
 .we-produce {
-  padding-bottom: 30px;
   background: #ede2e2;
 }
 .section3-classification {
@@ -450,7 +448,6 @@ body {
 /* ******Section4 (Materials)****** */
 .materials {
   background: rgb(237, 226, 226, 0.5);
-  padding-bottom: 20px;
 }
 .section4-materials {
   display: flex;
@@ -463,7 +460,6 @@ body {
 /* ******Section5 (Stages)****** */
 .stages{
    background: #ede2e2;
-   padding-bottom: 50px;
 }
 .vl{
   border-right: 6px solid black;
@@ -506,7 +502,6 @@ body {
 /* ******Section6 (Pluses)****** */
 .pluses {
   background: rgb(237, 226, 226, 0.5);
-  padding-bottom: 50px;
 }
 .pluses-block {
   display: flex;
@@ -540,7 +535,6 @@ body {
 /* ********Section7 (Our projects)******* */
 .projects {
   background: #ede2e2;
-  padding-bottom: 50px;
 }
 .projects-img {
   width: 300px;
@@ -556,7 +550,6 @@ body {
 /* ********Section8 (advices)***** */
 .advices {
   background: rgb(237, 226, 226, 0.5);
-  padding-bottom: 50px;
 }
 .advices-white-color-descr {
   text-decoration: none;
@@ -574,7 +567,6 @@ body {
 /* ******Section9 (Comments)*** */
 .comments {
   background: #ede2e2;
-  padding-bottom: 50px;
 }
 
 /* *******Footer***** */
